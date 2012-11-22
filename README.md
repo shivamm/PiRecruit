@@ -1,4 +1,0 @@
-PiRecruit
-=========
-
-Recruitment System 
